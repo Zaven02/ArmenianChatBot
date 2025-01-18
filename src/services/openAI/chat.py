@@ -2,7 +2,7 @@ import openai
 from deep_translator import GoogleTranslator
 import json
 
-api_key = "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"
+api_key = "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"  # TODO move this to .env file
 
 openai.api_key = api_key
 
